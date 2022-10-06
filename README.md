@@ -1,2 +1,2 @@
-# EducatorHustle Website
-Github Websote
+# Educator Hustle Dev.
+
